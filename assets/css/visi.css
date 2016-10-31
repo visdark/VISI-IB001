@@ -1,0 +1,25 @@
+/*! Bootstrap */
+/* === basic === */
+body,html{margin:0;padding:0;}
+a,abbr,acronym,address,blockquote,button,caption,cite,code,dd,del,dfn,dl,dt,em,fieldset,form,h1,h2,h3,h4,h5,h6,img,label,legend,li,ol,p,pre,q,s,samp,small,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,ul,var{margin:0;padding:0;border:0;font-weight:400;font-style:normal;font-size:100%;font-family:inherit;line-height:1;}
+table{border-collapse:collapse;border-spacing:0;}
+ol,ul{list-style:none;}
+blockquote:after,blockquote:before,q:after,q:before{content:"";}
+html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+a:focus{outline:thin dotted;}
+a:active,a:hover{outline:0;}
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}
+audio,canvas,video{display:inline-block;}
+audio:not([controls]){display:none;}
+sub,sup{position:relative;vertical-align:baseline;font-size:75%;line-height:0;}
+sup{top:-.5em;}
+sub{bottom:-.25em;}
+img{border:0;-ms-interpolation-mode:bicubic;}
+button,input,select,textarea{margin:0;vertical-align:baseline;font-size:100%;}
+button,input{line-height:normal;}
+button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0;}
+button,input[type=button],input[type=reset],input[type=submit]{cursor:pointer;-webkit-appearance:button;}
+input[type=search]{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;-webkit-appearance:textfield;}
+input[type=search]::-webkit-search-decoration{-webkit-appearance:none;}
+textarea{overflow:auto;vertical-align:top;}
+
